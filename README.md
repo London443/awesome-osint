@@ -1437,6 +1437,7 @@ algorithms, knowledgebase and AI technology.
 * [Silobreaker](https://www.silobreaker.com)
 * [Talkwalker](https://www.talkwalker.com)
 * [The Old Reader](https://theoldreader.com)
+* [TIMING](https://timing.london.li) - Detects statistically significant attention spikes in Wikipedia pageviews for a given topic, with confidence-scored change-point detection.
 * [versionista](https://versionista.com)
 * [visualping](https://visualping.io)
 * [WebReader](https://www.getwebreader.com)
